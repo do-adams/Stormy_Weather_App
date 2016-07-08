@@ -20,4 +20,9 @@ MyGoogleMapsApiKey=<"INSERT_API_KEY_HERE">
 MyDarkSkyForecastApiKey=<"INSERT_API_KEY_HERE">
 </code>
 
-You must, of course, provide your own unique API keys for these services.
+You must, of course, provide your own unique API keys for these services. 
+
+You can acquire them easily in the following links:
+
+1. [Google Maps API](https://developers.google.com/maps/documentation/android-api/start#get-key)
+2. [The Dark Sky Forecast API](https://developer.forecast.io/)
