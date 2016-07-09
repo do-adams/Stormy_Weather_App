@@ -1,9 +1,9 @@
 # Stormy Weather App
-A stylish weather app for Android.
+An elegant weather app for Android.
 
 ![Stormy](/Stormy.png?raw=true)
 
-Sleek and soft on the eyes, Stormy is ready to serve up a convenient torrent of localized forecast data at a moment's whim. Built in April 2016 as part of completing the [Build a Weather App](https://teamtreehouse.com/library/build-a-weather-app)
+Sleek and easy on the eyes, Stormy is ready to deliver up-to-the-moment, localized forecast data right when you need it. Built in April 2016 as part of completing the [Build a Weather App](https://teamtreehouse.com/library/build-a-weather-app)
 and the [Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters) courses at [Team Treehouse](https://teamtreehouse.com/), 
 Stormy makes heavy usage of REST APIs, Network Calls, ListViews, RecyclerViews, Custom Adapters, Google Play Location Services, User Permissions, and more.
 
